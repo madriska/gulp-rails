@@ -14,7 +14,7 @@ your system.
 1. Add the following line to your `Gemfile`.
 
     ```ruby
-    gem 'gulp-rails', git: 'https://github.com/madriska/gulp-rails'
+    gem 'gulp_rails', git: 'https://github.com/madriska/gulp-rails'
     ```
 
 2. Run `bundle install` to download and install the gem from GitHub.
